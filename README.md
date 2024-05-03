@@ -54,7 +54,9 @@ Add additional notes about how to deploy this on a live system:
 # Compile and run the program
 java Chatbot
 ```
+## Output
 
+<img width="668" alt="Screenshot 2024-05-03 at 8 26 25 AM" src="https://github.com/Z313PH/Java-Chatbot/assets/119972119/ee4b45b1-e5fb-47df-b094-4494a3f002a8">
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
