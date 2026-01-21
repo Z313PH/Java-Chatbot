@@ -30,10 +30,10 @@ A step-by-step series of examples that tell you how to get a development environ
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-project-name.git
+git clone https://github.com/Z313PH/Java-Chatbot.git
 
 # Navigate to the project directory
-cd your-project-name
+cd Java-Chatbot
 
 # Compile Java files
 javac Chatbot.java
@@ -48,7 +48,7 @@ java TestChatbot
 ```
 
 ## Deployment
-Add additional notes about how to deploy this on a live system:
+
 
 ```bash
 # Compile and run the program
